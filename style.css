@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.checked {
+  text-decoration:line-through;
+}
+
+.box{
+  width:30%;
+  margin:0 auto;
+ border:5px solid maroon;
+  text-align:center;
+  color:maroon;
+  font-family:Arial;
+  padding:20px;
+
+}
+
+body {
+  text-align:center;
+}
+
+.addItemButton {
+  background-color:maroon;
+  border:none;
+  color:white;
+  font-family:Arial;
+  padding:10px;
+}
+.addItemInput {
+  padding:10px;
+}
+
+li {
+  font-family:Lato;
+  font-size:20px;
+  list-style:none;
+}
+
+button {
+  margin:10px;
+  background-color:maroon;
+  color:white;
+  border:none;
+  padding: 5px;
+  font-family:Lato;
+}
